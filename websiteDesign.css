@@ -1,0 +1,87 @@
+nav a{
+    background-color: rgba(128, 128, 128, 0.484);
+    padding: 5px;
+    color: black;
+    
+}
+nav a:hover{
+    color: blueviolet;
+}
+h1{
+    font-size: 95px;
+    /*text-decoration: underline;*/
+    color: rgb(153, 151, 154)
+    
+}
+h2{
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img#mimg{
+    float: left;
+    size: 1px;
+}
+/*body {
+    background-image:url(https://thumbs.gfycat.com/AnchoredViciousDegus-max-1mb.gif);
+    background-size:100%;
+    /*background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+    z-index: -5;
+    
+}*/
+/*Audio button*/
+/*button{
+    color: black;
+    background-color: slategray;    
+}*/
+
+
+
+
+
+
+
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+/* Add some content at the bottom of the video/page */
+.content {
+    position: absolute;
+    /*bottom: 0;*/
+    background: rgba(0, 0, 0, 0.5);
+    color: #a69caa;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  /* Style the button used to pause/play the video */
+  /*#myBtn {
+    width: 100px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  #myBtn:hover {
+    background: #ddd;
+    color: black;
+  }*/
+
+
+  
+  
